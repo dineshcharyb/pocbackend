@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: bdineshchary/devopsproj
+        image: nginx
         ports:
         - containerPort: 8443
 
